@@ -14,7 +14,7 @@
     <version>1.0</version>
     <name>weather_reactive</name>
     <properties>
-        <java.version>11</java.version>
+        <java.version>13</java.version>
     </properties>
 
     <dependencies>
